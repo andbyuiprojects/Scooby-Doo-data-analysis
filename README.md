@@ -21,6 +21,6 @@
 - [tutorialspoint](https://www.tutorialspoint.com/r/r_arrays.htm)
 
 # Future Work
-- More cleaned up plot graphs
+- Make plot graphs easier to read
 - Bar chart for movies
 - Diffent versions of Scooby Doo (such as reboots and others)
